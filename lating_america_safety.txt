@@ -1,0 +1,44 @@
+001 Iceland				(first in world)
+002 Denmark
+003 Austria
+004 New Zealand
+005 Switzerland
+006 Finland
+007 Canada				<--
+008 Japan				<--
+009 Australia
+010 Czech Republic
+016 Germany
+017 Norway
+024 Singapore
+029 Chile				(first in LA)
+034 Costa Rica
+039 United Kingdom		<--
+042 South Korea
+043 Mongolia
+044 Uruguay
+045 France
+060 Argentina			<--
+063 Lesotho
+064 Panama				<--
+074 Nicaragua
+082 Cuba
+084 Ecuador
+089 Paraguay			<--
+090 Bolivia
+092 Guyana
+092 Peru
+094 United States		<--
+097 Trinidad and Tobago
+098 Haiti
+100 Dominican Republic	<--
+109 Jamaica
+116 Honduras
+118 Guatemala
+123 El Salvador
+141 Philippines
+142 Venezuela
+143 India
+144 Mexico
+146 Colombia			(last in LA)
+162 Syria 				(last in world)
