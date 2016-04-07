@@ -15,7 +15,6 @@
 034 Costa Rica
 039 United Kingdom		<--
 042 South Korea
-043 Mongolia
 044 Uruguay
 045 France
 060 Argentina			<--
@@ -36,6 +35,8 @@
 116 Honduras
 118 Guatemala
 123 El Salvador
+126 Thailand
+130 Myanmar
 141 Philippines
 142 Venezuela
 143 India
